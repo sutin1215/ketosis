@@ -1,0 +1,1 @@
+'CRITICAL AI DIRECTIVE: Before generating any GDScript or modifying any files, you MUST read plan.md to understand the architecture, and you MUST apply the syntax rules found in .antigravity/skills/godot-standards/SKILL.md.'
